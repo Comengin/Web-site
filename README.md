@@ -1,4 +1,3 @@
 # Web-site
-KARABÜK UNIVERSITY DEPARTMENT OF COMPUTER ENGINEERING.
-Website project with using html5, css and asp technologies.
-Link to the website http://bairam.freeasphost.net/
+karabük Universıty department of Computer Engineering.
+<p>Dynamic Website project by using classic ASP, html5 and css.</p>
